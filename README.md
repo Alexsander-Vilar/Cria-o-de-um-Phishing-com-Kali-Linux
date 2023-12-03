@@ -2,47 +2,45 @@
 
 
 
-
-
 - Acesso root: `sudo su`
 
-![01](C:\Users\alexs\OneDrive\Documentos\Desafios de projeto ciberseguranaça\Criação de um Phishing com o Kali Linux\Criacao-de-um-Phishing-com-Kali-Linux\fotos\01.PNG)
+<img src="imagens/01.png">
 
 - Iniciando o setoolkit: `setoolkit`
 - Tipo de ataque: `Social-Engineering Attacks`
 
-![2](C:\Users\alexs\OneDrive\Documentos\Desafios de projeto ciberseguranaça\Criação de um Phishing com o Kali Linux\Criacao-de-um-Phishing-com-Kali-Linux\fotos\2.PNG)
+<img src="imagens/2.png">
 
 - Vetor de ataque: `Web Site Attack Vectors`
 
-![3](C:\Users\alexs\OneDrive\Documentos\Desafios de projeto ciberseguranaça\Criação de um Phishing com o Kali Linux\Criacao-de-um-Phishing-com-Kali-Linux\fotos\3.PNG)
+<img src="imagens/3.png">
 
 - Método de ataque: `Credential Harvester Attack Method `
 
-![4](C:\Users\alexs\OneDrive\Documentos\Desafios de projeto ciberseguranaça\Criação de um Phishing com o Kali Linux\Criacao-de-um-Phishing-com-Kali-Linux\fotos\4.PNG)
+<img src="imagens/4.png">
 
 - Método de ataque: `Site Cloner`
 
-![5](C:\Users\alexs\OneDrive\Documentos\Desafios de projeto ciberseguranaça\Criação de um Phishing com o Kali Linux\Criacao-de-um-Phishing-com-Kali-Linux\fotos\5.PNG)
+<img src="imagens/5.png">
 
 - Método de ataque: `Site Cloner`
 
-![6](C:\Users\alexs\OneDrive\Documentos\Desafios de projeto ciberseguranaça\Criação de um Phishing com o Kali Linux\Criacao-de-um-Phishing-com-Kali-Linux\fotos\6.PNG)
+<img src="imagens/6.png">
 
 - URL para clone: [https://br.linkedin.com](https://br.linkedin.com/)
 
-![7](C:\Users\alexs\OneDrive\Documentos\Desafios de projeto ciberseguranaça\Criação de um Phishing com o Kali Linux\Criacao-de-um-Phishing-com-Kali-Linux\fotos\7.PNG)
+<img src="imagens/7.png">
 
-![8](C:\Users\alexs\OneDrive\Documentos\Desafios de projeto ciberseguranaça\Criação de um Phishing com o Kali Linux\Criacao-de-um-Phishing-com-Kali-Linux\fotos\8.PNG)
+<img src="imagens/8.png">
 
 Pagina clonada aberta 
 
-![9](C:\Users\alexs\OneDrive\Documentos\Desafios de projeto ciberseguranaça\Criação de um Phishing com o Kali Linux\Criacao-de-um-Phishing-com-Kali-Linux\fotos\9.PNG)
+<img src="imagens/9.png">
 
 Dados inseridos na pagina.
 
-![10](C:\Users\alexs\OneDrive\Documentos\Desafios de projeto ciberseguranaça\Criação de um Phishing com o Kali Linux\Criacao-de-um-Phishing-com-Kali-Linux\fotos\10.PNG)
+<img src="imagens/10.png">
 
 Retorno 
 
-![11](C:\Users\alexs\OneDrive\Documentos\Desafios de projeto ciberseguranaça\Criação de um Phishing com o Kali Linux\Criacao-de-um-Phishing-com-Kali-Linux\fotos\11.PNG)
+<img src="imagens/11.png">
