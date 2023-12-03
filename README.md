@@ -4,7 +4,7 @@
 
 - Acesso root: `sudo su`
 
-<img src="imagens/01.png">
+<img src="Criacao-de-um-Phishing-com-Kali-Linux/imagens/01.png">
 
 - Iniciando o setoolkit: `setoolkit`
 - Tipo de ataque: `Social-Engineering Attacks`
